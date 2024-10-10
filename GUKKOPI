@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GUKKOPI</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <nav>
+        <div class="wrapper">
+            <div class="logo"><a href=''>GUKKOPI</a></div>
+            <div class="menu">
+                <ul>
+                    <li><a href="#Halaman Utama">Halaman Utama</a></li>
+                    <li><a href="#Tentang">Tentang Kami</a></li>
+                    <li><a href="#Menu">Menu</a></li>
+                    <li><a href="#Karir">Karir</a></li>
+                    <li><a href="#Kontak">Tentang</a></li>
+                    <li><a href="" class="tbl-biru">Sign Up</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <div class="wrapper">
+        <!-- untuk halaman utama -->
+        <section id="Halaman Utama">
+
+            <div class="kolom">
+                <p class="deskripsi"></p>
+                <h2>Pilihan Terbaik, Kopi Terbaik</h2>
+                <p>Melalui Proses Panjang dari petani biji kopi nusantara Untuk Menghasilkan Biji Kopi berkualitas standar internasional</p>
+                <p><a href="" class="tbl-pink">Pelajari Lebih Lanjut</a></p>
+            </div>
+        </section>
+
+        <!-- untuk Tentang -->
+        <section id="Tentang">
+            <div class="kolom">
+                <p class="deskripsi">Tentang GUKKOPI</p>
+                <h2>Kami bergerak untuk menyajikan anda pilihan kopi terbaik dari jenis kopi di Indonesia</h2>
+                <p> “Dari hati untuk senyuman” bagaimana Guk Kopi ingin memberikan pengalaman dan pengembangan di setiap langkahnya dengan penuh semangat,rasa,ketulusan,serta value untuk di kontribusikan kepada setiap orang.</p>
+                <p><a href="" class="tbl-biru">Lihat Lebih Lanjut</a></p>
+            </div>
+    
+        </section>
+
+        <!-- untuk menu -->
+        <section id="Menu">
+            <div class="tengah">
+                <div class="kolom">
+                    <p class="deskripsi">Pesan Sekarang! Dapatkan penawaran fantastis!</p>
+                    <h2></h2>
+                    <p>1 KG BIJI KOPI FREE UNTUK PELANGGAN PERTAMA</p>
+                </div>
+
+                <div class="jenis-kopi">
+                    <div class="jenis-kopi">
+                        <img src="https://dfu1k3y1rami2.cloudfront.net/wp-content/uploads/2014/07/26195109/2020_cb.jpg"/>
+                        <p>Jason Lee Scott</p>
+                    </div>
+                    <div class="jenis-kopi">
+                        <img src="https://images.ctfassets.net/1wryd5vd9xez/4DxzhQY7WFsbtTkoYntq23/a4a04701649e92a929010a6a860b66bf/https___cdn-images-1.medium.com_max_2000_1_Y6l_FDhxOI1AhjL56dHh8g.jpeg"/>
+                        <p>John Doe</p>
+                    </div>
+                    <div class="jenis-kopi">
+                        <img src="https://images.fastcompany.net/image/upload/w_596,c_limit,q_auto:best,f_auto/fc/3021752-inline-i-1-why-square-designed-its-new-offices-to-work-like-a-city.jpg"/>
+                        <p>Michael Dell</p>
+                    </div>
+                    <div class="jenis-kopi">
+                        <img src="https://blogs-images.forbes.com/jackkelly/files/2019/06/Jack-Kelly_avatar_1559658819-400x400.jpg"/>
+                        <p>Bruce Wills</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- untuk karir -->
+        <section id="Karir">
+            <div class="tengah">
+                <div class="kolom">
+                    <p class="deskripsi">karir GUKKOPI</p>
+                    <h2>DAFTARKAN DIRIMU SEGERA</h2>
+                    <p>Raih Impian Karir mu bersama GUKKOPI</p>
+                </div>
+
+                <div class="partner-list">
+                    <div class="kartu-partner">
+                        <img src="https://www.designevo.com/res/templates/thumb_small/black-wheat-and-mortarboard.png"/>
+                    </div>
+                    <div class="kartu-partner">
+                        <img src="https://image.freepik.com/free-vector/campus-collage-university-education-logo-design-template_7492-63.jpg"/>
+                    </div>
+                    <div class="kartu-partner">
+                        <img src="https://image.freepik.com/free-vector/campus-collage-university-education-logo-design-template_7492-62.jpg"/>
+                    </div>
+                    <div class="kartu-partner">
+                        <img src="https://www.designevo.com/res/templates/thumb_small/encircled-branches-and-book.png"/>
+                    </div>
+                    <div class="kartu-partner">
+                        <img src="https://image.freepik.com/free-vector/campus-collage-university-education-logo-design-template_7492-64.jpg"/>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+
+    <div id="">
+        <div class="wrapper">
+            <div class="footer">
+                <div class="footer-section">
+                    <h3>GUKKOPI</h3>
+                    <p></p>
+                </div>
+                <div class="footer-section">
+                    <h3>Tentang</h3>
+                    <p></p>
+                </div>
+                <div class="footer-section">
+                    <h3>Kontak</h3>
+                    <p>Jl. Ketintang No3, Surabaya</p>
+                    <p>Kode Pos: 57365</p>
+                </div>
+                <div class="footer-section">
+                    <h3>Social Media</h3>
+                    <p><b>Instagram </b> </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="copyright">
+        <div class="wrapper">
+            &copy; 2020. <b>GUKKOPI</b> All Rights Reserved.
+        </div>
+    </div>
+    
+</body>
+</html>
